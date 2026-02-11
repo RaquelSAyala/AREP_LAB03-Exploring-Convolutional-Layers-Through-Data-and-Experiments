@@ -1,6 +1,7 @@
 # Exploring Convolutional Layers Through Data and Experiments
 
 ## Dataset: Fashion-MNIST
+Author: Raquel Selma
 
 ------------------------------------------------------------------------
 
@@ -92,6 +93,8 @@ The notebook includes:
 
 ### EDA Screenshots
 
+<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/aa5a0905-96fd-4c9b-bc2a-ca205c4af1ca" />
+<img width="886" height="617" alt="image" src="https://github.com/user-attachments/assets/e7cb998f-2606-415d-8d87-f6adfb5b247f" />
 
 
 ------------------------------------------------------------------------
@@ -113,6 +116,13 @@ validation accuracy - Observed limitations
 
 ### Baseline Model Screenshots
 
+<img width="898" height="617" alt="image" src="https://github.com/user-attachments/assets/ff279dc9-ae12-43ee-b8e8-3fd006cc4507" />
+
+<img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/1a4f34be-e69d-4db5-b6cb-c9363505d198" />
+
+<img width="575" height="455" alt="image" src="https://github.com/user-attachments/assets/6c79a950-8542-4dd7-abb4-5e0288c5ea09" />
+
+<img width="570" height="160" alt="image" src="https://github.com/user-attachments/assets/e1695642-1296-47c5-aba2-9e8e76f021e0" />
 
 
 ------------------------------------------------------------------------
@@ -130,6 +140,11 @@ Design decisions were justified in terms of: - Local feature
 extraction - Parameter efficiency - Hierarchical representation learning
 
 ### CNN Architecture Screenshots
+
+<img width="853" height="695" alt="image" src="https://github.com/user-attachments/assets/6ce369ba-4832-48d3-9d82-f224cbac790f" />
+<img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/4150418d-ebb0-4c79-b98f-5d91774dbf71" />
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/07a18250-52bb-4b98-b803-3cbfd1ec0c26" />
+<img width="671" height="226" alt="image" src="https://github.com/user-attachments/assets/57a57df4-53e0-43f4-aa09-c9ddd2807c1c" />
 
 
 
@@ -154,7 +169,8 @@ complexity and performance
 
 ### Experiment Screenshots
 
-
+<img width="813" height="158" alt="image" src="https://github.com/user-attachments/assets/6751878e-883f-44e0-ade5-55cfb7b0720d" />
+<img width="584" height="455" alt="image" src="https://github.com/user-attachments/assets/215bf1d2-353b-439e-865b-b6ee6db5459f" />
 
 ------------------------------------------------------------------------
 
